@@ -1,0 +1,14 @@
+WEB DATA EXTRACTOR - SUMMARY REPORT
+========================================
+Total books: 100
+Average price: GBP 34.56
+Minimum price: GBP 10.16
+Maximum price: GBP 58.11
+
+Rating distribution:
+Rating
+Three    22
+One      22
+Five     19
+Two      19
+Four     18
